@@ -102,3 +102,4 @@ type wifip2p_service, app_api_service, system_server_service, service_manager_ty
 type wifiscanner_service, system_api_service, system_server_service, service_manager_type;
 type wifi_service, app_api_service, system_server_service, service_manager_type;
 type window_service, system_api_service, system_server_service, service_manager_type;
+type onestep_service, system_api_service, system_server_service, service_manager_type;

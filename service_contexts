@@ -128,4 +128,5 @@ wifip2p                                   u:object_r:wifip2p_service:s0
 wifiscanner                               u:object_r:wifiscanner_service:s0
 wifi                                      u:object_r:wifi_service:s0
 window                                    u:object_r:window_service:s0
+onestep                                   u:object_r:onestep_service:s0
 *                                         u:object_r:default_android_service:s0
